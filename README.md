@@ -2,9 +2,9 @@
 
 ### ABOUT ME
 
-Hello! I'm Hype here...
-I don't just write code; I architect systems by leveraging the world's most advanced AI models to solve complex problems.
-Pronouns: He/Him
+- Hello! I'm Hype here...
+- I don't just write code; I architect systems by leveraging the world's most advanced AI models to solve complex problems.
+- Pronouns: He/Him
 
 ---
 
