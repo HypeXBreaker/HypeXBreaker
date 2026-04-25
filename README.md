@@ -1,6 +1,4 @@
-# ⚡ Welcome to my Digital Workshop
-
-### Personal Quote: "Complex code, simple structures, powerful capabilities."
+### "Complex code, simple structures, powerful capabilities."
 
 ### ABOUT ME
 
