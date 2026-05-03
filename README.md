@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Aditya Mohapatra Portfolio Banner" width="100%">
+  <img src="am-banner.png" alt="Aditya Mohapatra Portfolio Banner" width="100%">
 </div>
 
 ### "Complex code, simple structures, powerful capabilities."
